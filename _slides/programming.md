@@ -25,4 +25,6 @@ slides:
   - vim-ide
   - processing-ide 
   - learntomod
+  - temple-os
+  - lazy-script
 ---
